@@ -2,6 +2,7 @@ package com.company;
 
 import com.company.controllers.UserController;
 
+import java.sql.Timestamp;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
